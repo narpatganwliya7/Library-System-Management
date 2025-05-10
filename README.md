@@ -562,7 +562,9 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
+- **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/narpat_choudhary1?igsh=MXYzN3l4YjRneTFlNA==)
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/narpat-ganwliya)
+- **Email**:    narpatganwliya678@gmail.com
 
 
 Thank you!
